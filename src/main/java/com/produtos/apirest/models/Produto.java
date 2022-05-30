@@ -19,13 +19,10 @@ public class Produto implements Serializable{
 		@GeneratedValue(strategy=GenerationType.AUTO)
 		private long id;
 		
-		//@NotNull
 		private String nome;
 		
-		//@NotNull
 		private BigDecimal quantidade;
 		
-		//@NotNull
 		private BigDecimal valor;
 
 		public long getId() {
