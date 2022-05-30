@@ -16,7 +16,7 @@
 
 ### Deploy
 
-Disponivel em:  [spring-rest-api-2022.herokuapp.com](https://spring-crud-2022.herokuapp.com)
+Disponivel em:  [https://spring-rest-api-2022.herokuapp.com/swagger-ui.html](https://spring-rest-api-2022.herokuapp.com/swagger-ui.html)
 
 
 
