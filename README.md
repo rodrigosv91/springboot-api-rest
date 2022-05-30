@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="190">
-  <img src="https://help.apiary.io/images/swagger-logo.png" width="160">
+  <img src="https://help.apiary.io/images/swagger-logo.png" width="180">
 </h1>
 
 <p align="center">API REST de produtos com Spring Boot e Swagger-ui </p>
