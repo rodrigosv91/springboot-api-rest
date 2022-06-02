@@ -40,7 +40,7 @@ public class ProdutoResource {
 		return produtoRepository.findById(id); 
 	}
         
-        @GetMapping("/produto/one")
+        @GetMapping("/produto/one") 
 	@ApiOperation(value="Retorna o produto de id 1")
 	public Produto listaProdutoUm(){
 		return produtoRepository.findProductOne(); 

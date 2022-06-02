@@ -10,5 +10,5 @@ public interface ProdutoRepository extends JpaRepository<Produto, Long> {
 	Produto findById(long id);
         
         @Query("SELECT p FROM Produto p WHERE p.id = 1")
-        Produto findProductOne();
+        Produto findProductOne(); 
 }
